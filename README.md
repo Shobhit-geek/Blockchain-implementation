@@ -54,7 +54,7 @@ added to the blockchain or not. Here you check the block
 no.,nonce,prev hash, current hash and all the data of
   registered land till now.</li>
   <li>Blockchain File is our project folder, there is <b>transaction Number_</b>
-named files of different blocks containing data, index file,
+named files of different blocks containing data of that block and index file,
 see data file, form file, number file which is used to keep
 block number at which the upcoming block is added and
     output file which contains the hash of all the block files.</li></ul><br>
@@ -72,7 +72,7 @@ see data page on panel which indicates that someone try to
 To check this case, go to the folder of project and open any
     of <b>transaction Number_</b> named file and change its data.After that go
 to online panel and run the see data page, here you can see
-that blockchain get break after that block whose data is
+that blockchain get break after the block whose data is
     changed and a Warning message appears.</li></ul><br>
 
 <li><b> AUTHORS :-</b></li><ul type='square'>
