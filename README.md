@@ -3,13 +3,13 @@
 <li><b> ABOUT :-</b></li>In this project, we created an online panel using web
 technologies and blockchain technology for registration of
 property and also this panel is used to keep records of land
-registered.
+registered.<br>
 
 <li><b> PREREQUISITES :-</b></li>The software that are required for deployment
 of our project on system: -<br>
 
    &nbsp; &nbsp;<b>a.</b> WampServer<br>
-   &nbsp; &nbsp;<b>b.</b> Visual Studio Code
+   &nbsp; &nbsp;<b>b.</b> Visual Studio Code<br>
 
 <li><b> INSTALLING :-</b> </li>How to install the above given software: -<br><ul type='square'>
 <li> For installing WampServer, prefer to this link
@@ -34,7 +34,7 @@ follow this path: - Go to Local disk C ->Wamp folder ->www
   folder.</li>
   <li>  To Run these files, open browser and type<b> 127.0.0.1/</b> then
 folder name of project and then file name with extension.
-    <b>For ex:-</b>localhost/blockchain/seedata.php</li></ul>
+    <b>For ex:-</b>localhost/blockchain/seedata.php</li></ul><br>
 
 <li><b> MORE INFO. ABOUT PROJECT :-</b></li><ul type='square'>
 <li> We created a form for entering data for registering land. On
@@ -43,7 +43,7 @@ submitting this form, these data are added to blockchain in
 <li> Our Panel has navigation bar which contains option to see
    data from where you can see records of all registered land.</li>
   <li> We Use <b>SHA256 Algorithm</b> for generating valid hash of each
-  block.</li></ul>
+  block.</li></ul><br>
 
 <li><b> RUNNING THE PROGRAM/CODE :-</li></b><ul type='square'>
 <li> Open the panel and enter all the required data in the form
@@ -56,7 +56,7 @@ no.,nonce,prev hash, current hash and all the data of
 named files of different blocks containing data, index file,
 see data file, form file, number file which is used to keep
 block number at which the upcoming block is added and
-    output file which contains the hash of all the block files.</li></ul>
+    output file which contains the hash of all the block files.</li></ul><br>
 
 <li><b> TEST CASES :-</b></li><ul type='square'>
   <li><b> Test Case1:-</b> you can check the correctness of project by
@@ -72,7 +72,7 @@ To check this case, go to the folder of project and open any
     of <b>transaction_</b> named file and change its data.After that go
 to online panel and run the see data page, here you can see
 that blockchain get break after that block whose data is
-    changed and a Warning message appears.</li></ul>
+    changed and a Warning message appears.</li></ul><br>
 
 <li><b> AUTHORS :-</b></li><ul type='square'>
   <li><b> ASHISH KAUSHAL</b></li>
