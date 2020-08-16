@@ -3,8 +3,9 @@
 <li><b> ABOUT :-</b></li>In this project, we created an online panel using web
 technologies and blockchain technology for registration of
 property and also this panel is used to keep records of land
-registered.<br>
-
+registered.
+<br>
+<br>
 <li><b> PREREQUISITES :-</b></li>The software that are required for deployment
 of our project on system: -<br>
 
