@@ -42,8 +42,8 @@ folder name of project and then file name with extension.
 submitting this form, these data are added to blockchain in
   new block.</li>
 <li> Our Panel has navigation bar which contains option to see
-data from where you can see records of all registered land.
-  ▪ We Use <b>SHA256 Algorithm</b> for generating valid hash of each
+   data from where you can see records of all registered land.</li>
+  <li> We Use <b>SHA256 Algorithm</b> for generating valid hash of each
   block.</li></ul>
 
 <b>• RUNNING THE PROGRAM/CODE :-</b><ul type='disc'>
