@@ -1,17 +1,17 @@
-<h2><u><b>Property Registration and Land Record Management Via Blockchain</b></u></h2>
+<h1><u><b>Property Registration and Land Record Management Via Blockchain</b></u></h1><ul>
 
-<b>• ABOUT :-</b>In this project, we created an online panel using web
+<li><b> ABOUT :-</b></li>In this project, we created an online panel using web
 technologies and blockchain technology for registration of
 property and also this panel is used to keep records of land
 registered.
 
-<b>• PREREQUISITES :-</b>The software that are required for deployment
+<li><b> PREREQUISITES :-</b></li>The software that are required for deployment
 of our project on system: -<br>
 
    &nbsp; &nbsp;<b>a.</b> WampServer<br>
    &nbsp; &nbsp;<b>b.</b> Visual Studio Code
 
-<b>• INSTALLING :-</b> How to install the above given software: -<br><ul type='square'>
+<li><b> INSTALLING :-</b> </li>How to install the above given software: -<br><ul type='square'>
 <li> For installing WampServer, prefer to this link
 https://sourceforge.net/projects/wampserver/ for
 downloading.And then after downloading open its installer
@@ -21,8 +21,8 @@ https://code.visualstudio.com/download and then download it
 according to your system architecture. And then open its
   installer where you downloaded it and then install it.</li></ul>
 
-<b>• DEPLOYMENT :-</b> Some information about deployment of our
-project on live systems.<ul type='square'>
+<li><b> DEPLOYMENT :-</b> Some information about deployment of our
+project on live systems.</li><ul type='square'>
 <li>First of all, start your WampServer on your system. For this
 go to search option and type Start WampServer and click on
 it and then a dialogue box appears regarding permission,
@@ -37,7 +37,7 @@ folder name of project and then file name with extension.
     <b>For ex:-</b>localhost/blockchain/seedata.php</li>
   </ul>
 
-<b>• MORE INFO. ABOUT PROJECT :-</b><ul type='square'>
+<li><b> MORE INFO. ABOUT PROJECT :-</b></li><ul type='square'>
 <li> We created a form for entering data for registering land. On
 submitting this form, these data are added to blockchain in
   new block.</li>
@@ -46,7 +46,7 @@ submitting this form, these data are added to blockchain in
   <li> We Use <b>SHA256 Algorithm</b> for generating valid hash of each
   block.</li></ul>
 
-<b>• RUNNING THE PROGRAM/CODE :-</b><ul type='disc'>
+<li><b> RUNNING THE PROGRAM/CODE :-</li></b><ul type='disc'>
 <li> Open the panel and enter all the required data in the form
   and click on submit button.</li>
 <li> After that click on see data option to verify that data is
@@ -59,7 +59,7 @@ see data file, form file, number file which is used to keep
 block number at which the upcoming block is added and
     output file which contains the hash of all the block files.</li></ul>
 
-<b>• TEST CASES :-</b><ul type='square'>
+<li><b> TEST CASES :-</b></li><ul type='square'>
   <li><b> Test Case1:-</b> you can check the correctness of project by
 adding data in form and submit it and then check is data is
 added to blockchain or not and also you can check folder of 
@@ -75,6 +75,6 @@ to online panel and run the see data page, here you can see
 that blockchain get break after that block whose data is
     changed and a Warning message appears.</li></ul>
 
-<b>• AUTHORS :-</b><ul type='square'>
+<li><b> AUTHORS :-</b></li><ul type='square'>
   <li><b> ASHISH KAUSHAL</b></li>
   <li><b> SHOBHIT RAJ</b></li></ul>
