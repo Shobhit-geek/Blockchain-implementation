@@ -19,7 +19,7 @@ downloading.And then after downloading open its installer
 <li> For installing Visual Studio Code, prefer to this link
 https://code.visualstudio.com/download and then download it
 according to your system architecture. And then open its
-  installer where you downloaded it and then install it.</li></ul>
+  installer where you downloaded it and then install it.</li></ul><br>
 
 <li><b> DEPLOYMENT :-</b> Some information about deployment of our
 project on live systems.</li><ul type='square'>
@@ -34,8 +34,7 @@ follow this path: - Go to Local disk C ->Wamp folder ->www
   folder.</li>
   <li>  To Run these files, open browser and type<b> 127.0.0.1/</b> then
 folder name of project and then file name with extension.
-    <b>For ex:-</b>localhost/blockchain/seedata.php</li>
-  </ul>
+    <b>For ex:-</b>localhost/blockchain/seedata.php</li></ul>
 
 <li><b> MORE INFO. ABOUT PROJECT :-</b></li><ul type='square'>
 <li> We created a form for entering data for registering land. On
@@ -46,7 +45,7 @@ submitting this form, these data are added to blockchain in
   <li> We Use <b>SHA256 Algorithm</b> for generating valid hash of each
   block.</li></ul>
 
-<li><b> RUNNING THE PROGRAM/CODE :-</li></b><ul type='disc'>
+<li><b> RUNNING THE PROGRAM/CODE :-</li></b><ul type='square'>
 <li> Open the panel and enter all the required data in the form
   and click on submit button.</li>
 <li> After that click on see data option to verify that data is
