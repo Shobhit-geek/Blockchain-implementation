@@ -53,7 +53,7 @@ submitting this form, these data are added to blockchain in
 added to the blockchain or not. Here you check the block
 no.,nonce,prev hash, current hash and all the data of
   registered land till now.</li>
-  <li>Blockchain File is our project folder, there is <b>transaction_</b>
+  <li>Blockchain File is our project folder, there is <b>transaction Number_</b>
 named files of different blocks containing data, index file,
 see data file, form file, number file which is used to keep
 block number at which the upcoming block is added and
@@ -70,7 +70,7 @@ land then blockchain get break and an error is displaying on
 see data page on panel which indicates that someone try to
   change the data.
 To check this case, go to the folder of project and open any
-    of <b>transaction_</b> named file and change its data.After that go
+    of <b>transaction Number_</b> named file and change its data.After that go
 to online panel and run the see data page, here you can see
 that blockchain get break after that block whose data is
     changed and a Warning message appears.</li></ul><br>
